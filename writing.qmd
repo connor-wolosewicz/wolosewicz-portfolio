@@ -2,4 +2,19 @@
 title: "Writing Samples"
 ---
 
-Coming soon. 
+A selection of academic writing across disciplines.
+
+### How Green Space and Violence are Mediated by Networks: A Case Study in Chicago (2026)
+
+A comparative social network analysis of three Chicago community areas that investigated the correlation between park quality and violence rates. Using previous literature and city data on park programming, green space, and violence, I argue that the conventional explanations on urban violence (income, policing, disinvestment) are incomplete. Rather, parks that nurture dense and various cross-generational events draw residents into repeated, low-stakes encounters with people outside their immediate social cluster. These encounters generate the weak, bridging ties that sustain collective efficacy and informal social control, complicating the narrative that simple access to green space is a silver bullet for troubled communities. [Read PDF ->](WolosewiczNetworkPaper.pdf)
+
+### A Site Visit and Urban Analysis of King Street, Alexandria, VA (2024)
+
+After reading Jane Jacobs and other urbanist authors, I conducted a site visit of King Street corridor in Old Town Alexandria. Between zoning ordinances, demographic data, and direct observation, I examined how her principles of safe, mixed-use urbanism interact with Neil Smith's frontier imagery on this commercial strip. I argue that King Street's pedestrian vitality is successful, but that this success is increasingly mediated by corporate occupancy of colonial-era buildings and the city's commodification of its own heritage. The public space works, but who counts as the public has been narrowed. [Read PDF ->](WolosewiczAMST2440W_ SiteVisitandAnalysisPaper.pdf)
+
+### How Law Can Promote a More Sustainable Fashion Industry Through Incorporating the Interests of Governments, Businesses, and Consumers (2022)
+
+## Featured in the Spring 2023 University Writing & Research Conference Program [here.](https://writingprogram.gwu.edu/university-writing-research-conference-program-spring-2023)
+
+A legal analysis of how fast fashion's environmental and humanitarian harms might be regulated by the often-competing interests of governments, businesses, and consumers. Drawing on contemporary garment legislation, corporate social responsibility frameworks, and antitrust policy, I argue that voluntary commitments and consumer awareness alone cannot offset the scale of the industry's pollution. Law must act as a moderating force, as seen with EU greenwashing rules, to translate stated sustainability values into enforceable industry practice. [Read PDF ->](WolosewiczUW1020FinalPaper.pdf)
+
