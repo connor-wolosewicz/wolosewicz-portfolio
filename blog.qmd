@@ -1,5 +1,5 @@
 ---
-title: "Portfolio"
+title: "DATS1001 Blog"
 listing:
   contents: posts
   sort: "date desc"
