@@ -5,21 +5,26 @@ project:
 website:
   title: "Connor Wolosewicz"
   description: "Recent GW graduate and aspiring urban planner"
-  site-url: https://connor-wolosewicz.github.io/dats1001blog
   navbar:
     right:
       - href: index.qmd
         text: Home
-      - href: blog.qmd
-        text: Writing
-      - icon: github
-        href: https://github.com/connor-wolosewicz
+      - text: Portfolio
+        menu:
+          - href: projects.qmd
+            text: Projects
+          - href: writing.qmd
+            text: Writing Samples
+          - href: gis.qmd
+            text: GIS Maps
+          - href: blog.qmd
+            text: DATS1001 Blog
+      - href: resume.qmd
+        text: Resume
 
 format:
   html:
-    theme:
-      - cerulean
+    theme: cosmo
     css: styles.css
-
-editor: visual
+    toc: false
 

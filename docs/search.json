@@ -1,156 +1,23 @@
 [
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Porfolio",
+    "objectID": "index.html#im-connor-and-im-an-aspiring-urban-planner-in-the-chicago-area-hoping-to-make-cities-sustainable.-i-recently-graduated-summa-cum-laude-from-george-washington-university-with-a-bs-in-environmental-and-sustainability-science-and-a-second-major-in-public-policy.-there-i-gained-a-comprehensive-understanding-of-socio-ecological-systems-and-the-policy-levers-available-to-govern-them.-ive-previously-applied-this-in-my-research-on-dcs-regulations-on-green-infrastructure-including-the-progressive-green-area-ratio-and-the-interaction-between-roadside-stormwater-gardens-and-rodent-infestation.-abroad-in-sydney-i-used-gis-and-microsoft-suite-to-improve-the-legibility-of-planning-codes-with-an-ai-tool.-ultimately-i-aim-to-bring-these-skills-and-cosmopolitan-understanding-of-urban-ecology-to-work-as-an-environmental-municipal-planner-or-consultant.",
+    "href": "index.html#im-connor-and-im-an-aspiring-urban-planner-in-the-chicago-area-hoping-to-make-cities-sustainable.-i-recently-graduated-summa-cum-laude-from-george-washington-university-with-a-bs-in-environmental-and-sustainability-science-and-a-second-major-in-public-policy.-there-i-gained-a-comprehensive-understanding-of-socio-ecological-systems-and-the-policy-levers-available-to-govern-them.-ive-previously-applied-this-in-my-research-on-dcs-regulations-on-green-infrastructure-including-the-progressive-green-area-ratio-and-the-interaction-between-roadside-stormwater-gardens-and-rodent-infestation.-abroad-in-sydney-i-used-gis-and-microsoft-suite-to-improve-the-legibility-of-planning-codes-with-an-ai-tool.-ultimately-i-aim-to-bring-these-skills-and-cosmopolitan-understanding-of-urban-ecology-to-work-as-an-environmental-municipal-planner-or-consultant.",
+    "title": "Connor Wolosewicz",
+    "section": "I’m Connor, and I’m an aspiring urban planner in the Chicago area hoping to make cities sustainable. I recently graduated summa cum laude from George Washington University with a BS in Environmental and Sustainability Science and a second major in Public Policy. There, I gained a comprehensive understanding of socio-ecological systems and the policy levers available to govern them. I’ve previously applied this in my research on DC’s regulations on green infrastructure, including the progressive Green Area Ratio, and the interaction between roadside stormwater gardens and rodent infestation. Abroad in Sydney, I used GIS and Microsoft Suite to improve the legibility of planning codes with an AI tool. Ultimately, I aim to bring these skills and cosmopolitan understanding of urban ecology to work as an environmental municipal planner or consultant.",
+    "text": "I’m Connor, and I’m an aspiring urban planner in the Chicago area hoping to make cities sustainable. I recently graduated summa cum laude from George Washington University with a BS in Environmental and Sustainability Science and a second major in Public Policy. There, I gained a comprehensive understanding of socio-ecological systems and the policy levers available to govern them. I’ve previously applied this in my research on DC’s regulations on green infrastructure, including the progressive Green Area Ratio, and the interaction between roadside stormwater gardens and rodent infestation. Abroad in Sydney, I used GIS and Microsoft Suite to improve the legibility of planning codes with an AI tool. Ultimately, I aim to bring these skills and cosmopolitan understanding of urban ecology to work as an environmental municipal planner or consultant.\nRead my writing -&gt; · View my resume"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Connor Wolosewicz",
     "section": "",
-    "text": "Street Trees in NYC\n\n\n\n\n\n\n\n\nApr 23, 2026\n\n\n\n\n\n\n\nParks in NYC\n\n\n\n\n\n\n\n\nApr 2, 2026\n\n\n\n\n\n\n\nSydney Itinerary and Reflection\n\n\n\n\n\n\n\n\nJan 22, 2026\n\n\n\n\n\nNo matching items"
+    "text": "I’m Connor, and I’m an aspiring urban planner in the Chicago area hoping to make cities sustainable. I recently graduated summa cum laude from George Washington University with a BS in Environmental and Sustainability Science and a second major in Public Policy. There, I gained a comprehensive understanding of socio-ecological systems and the policy levers available to govern them. I’ve previously applied this in my research on DC’s regulations on green infrastructure, including the progressive Green Area Ratio, and the interaction between roadside stormwater gardens and rodent infestation. Abroad in Sydney, I used GIS and Microsoft Suite to improve the legibility of planning codes with an AI tool. Ultimately, I aim to bring these skills and cosmopolitan understanding of urban ecology to work as an environmental municipal planner or consultant.\nRead my writing -&gt; · View my resume"
   },
   {
-    "objectID": "posts/post3/index.html",
-    "href": "posts/post3/index.html",
-    "title": "Street Trees in NYC",
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Connor Wolosewicz",
     "section": "",
-    "text": "Environmental Justice in NYC: Down to the (Street) Tree."
-  },
-  {
-    "objectID": "posts/post3/index.html#variables",
-    "href": "posts/post3/index.html#variables",
-    "title": "Street Trees in NYC",
-    "section": "Variables",
-    "text": "Variables\nIn this dataset, one row represents a tree. I completed a hypothesis test between two groups: health and borough. I aim to see if whether the proportion of trees in GOOD health differ between the richest borough, Manhattan, and the poorest, The Bronx.\n\n\n\n\n\n\n\n\nVariable\nType\nDescription\n\n\n\n\nHEALTH\nCategorical\nRated on a scale of GOOD, FAIR, or POOR\n\n\nBOROUGH\nCategorical\nNYC borough where the park is located (1 = Manhattan, 2 = Bronx)"
-  },
-  {
-    "objectID": "posts/post3/index.html#exploratory-comparison",
-    "href": "posts/post3/index.html#exploratory-comparison",
-    "title": "Street Trees in NYC",
-    "section": "Exploratory Comparison",
-    "text": "Exploratory Comparison\nTo get a better glimpse of each borough’s urban canopy health, I first cleaned the data and then grouped it by BOROUGH and HEALTH. Upon further inspection, the boroughs had vastly different tree counts. Manhattan is home to 62,416 trees compared to Bronx’s 80,557. To better compare the two, I mutated the data into a proportionally comparison so that they are on a 0-1 scale.\n\n\n\n\n\n\n\n\n\nAt first glance, the proportion of trees in different health categories appears similar, with the vast majority in both boroughs being labeled GOOD. However, a more exact measure from the summary data shows that Manhattan has a higher proportion of both FAIR and POOR trees—18.4% and 5.8%, respectively—compared to The Bronx at 13.5% and 3.8%. This surprising, given that Manhattan has more income and in theory, more funding to keep trees healthy.\n\n\n\n\n\n\n\n\n\n\n\n\n95% Bootstrap Confidence Intervals for Proportion of Good Health Trees\n\n\nBorough\nObserved Proportion\nLower CI\nUpper CI\n\n\n\n\nBronx\n0.826\n0.824\n0.829\n\n\nManhattan\n0.759\n0.755\n0.762\n\n\n\n\n\nFor this analysis, box plots were not used because HEALTH is a categorical, not continuous, variable. Instead, a grouped bar chart of proportions better reflects the health distributions across the two boroughs. Thus, there are not outliers in the traditional sense; yet, it is clear that The Bronx has a noticeably higher proportion of GOOD trees."
-  },
-  {
-    "objectID": "posts/post3/index.html#bootstrapping",
-    "href": "posts/post3/index.html#bootstrapping",
-    "title": "Street Trees in NYC",
-    "section": "Bootstrapping",
-    "text": "Bootstrapping\nIn order to get a better understanding of how different the two boroughs are, I constructed a bootstrap confidence interval (CI) for each. As seen in the graph, the 95% CI does not overlap at all, and indeed, there is a difference of trees in GOOD health. Specifically, the CI for The Bronx is between 82.4% and 82.9%, with Manhattan’s at 75.5% and 76.2%. The difference between the lower bound of The Bronx and the upper bound of Manhattan is just over 6 percentage points. This provides strong visual and statistical evidence that the difference in tree health is not attributable to random chance.\nNote: The graph is zoomed for comparison purposes."
-  },
-  {
-    "objectID": "posts/post3/index.html#hypotheses",
-    "href": "posts/post3/index.html#hypotheses",
-    "title": "Street Trees in NYC",
-    "section": "Hypotheses",
-    "text": "Hypotheses\nFor my statistical analysis, Group 1 is The Bronx and Group 2 is Manhattan. The null hypothesis—what I am looking to disprove—states that the proportion of trees in GOOD health will be the same across both groups, ad any observed difference is due to random chance. Alternatively, the proportion of street trees in GOOD health does in fact differ between The Bronx and Manhattan. While I initially expected that Manhattan would have a higher proportion of healthier trees, the exploratory analysis revealed the opposite. To see the significance of this relation, I will use a one-side alternative hypothesis.\n\n\n\n\n\n\n\n\n\nHypothesis\nNotation\n\n\n\n\nH₀\nThe proportion of trees in GOOD health is the same in The Bronx and Manhattan\np₁ − p₂ = 0\n\n\nHₐ\nThe proportion of trees in GOOD health is greater in The Bronx than Manhattan\np₁ − p₂ &gt; 0"
-  },
-  {
-    "objectID": "posts/post3/index.html#visualization-of-statistical-significance",
-    "href": "posts/post3/index.html#visualization-of-statistical-significance",
-    "title": "Street Trees in NYC",
-    "section": "Visualization of Statistical Significance",
-    "text": "Visualization of Statistical Significance\nThis graph illustrates that the null distribution is centered at 0, reflecting the assumption under the null hypothesis that there was no relation. The observed difference of 0.068, or 6.8 percentage points, is very far from the range of the null hypothesis. The shaded area is invisible with a p value of nearly 0, demonstrating that none of the 1000 permuted differences were as extreme as what we observed."
-  },
-  {
-    "objectID": "posts/post3/index.html#results",
-    "href": "posts/post3/index.html#results",
-    "title": "Street Trees in NYC",
-    "section": "Results",
-    "text": "Results\nI chose a significance level of α = 0.05, which is the conventional standard in social science. Practically, this means I require the probability of observing a difference as large as 6.8 percentage points by random chance alone to be less than 5% before rejecting the null hypothesis. Using this threshold, the p-value of less than 0.001 falls far below the threshold (0.05) required to fail to reject the null hypothesis, so I soundly reject it. This means that trees are definitively in better health in The Bronx than those in Manhattan, challenging the assumption that wealth corresponds to healthier streetscapes."
-  },
-  {
-    "objectID": "posts/post3/index.html#discussion-and-conclusion",
-    "href": "posts/post3/index.html#discussion-and-conclusion",
-    "title": "Street Trees in NYC",
-    "section": "Discussion and Conclusion",
-    "text": "Discussion and Conclusion\nThe observed 6.8 percentage point difference, while being statistically significant, may not be as damning in the real world. The importance of this difference depends on context. The Bronx is home to almost 20,000 more trees than Manhattan, and is much less of a concrete jungle. Correspondingly, The Bronx has wider blocks and wider tree beds with more soil space, which leads to better tree health regardless of investment levels. On the other hand, Manhattan’s lower proportion of GOOD trees may reflect the stress than wide sidewalks, heavy foot traffic, and air pollution have on the borough’s trees.\nThis analysis set to find out whether street trees in The Bronx and Manhattan differ in health. Similar to the previous post, this was motivated by broader questions about green infrastructure equity in NYC and my passion for the topic. Using statistics and R, the answer was surprisingly clear—not in the extent to which they were different, but the direction. I found that The Bronx has a significantly larger proportion of trees in good health than Manhattan.\nThe bootstrap CI intervals from the beginning of the analysis fully agree with this conclusion, as they do not overlap at all. Further, the p-value of nearly 0, combined with the above difference, leads me to confidently reject the null hypothesis. That said, the context of both borough’s built environment, like land use patterns and tree species composition, is a factor that needs to be studied in future research."
-  },
-  {
-    "objectID": "posts/post1/index.html",
-    "href": "posts/post1/index.html",
-    "title": "Sydney Itinerary and Reflection",
-    "section": "",
-    "text": "If you’re looking to escape the cold, look no further than the land down under.\n\nLast year, I studied abroad at the University of Sydney and lived in the city for 5 months. Follow along to hear the best 1-week itinerary that checks all of your boxes.\n\n\nAfter checking into your hotel or Airbnb, take a walk along the water and admire the iconic Sydney Opera House. They have spectacular performances almost every day, and you can see what’s on the schedule here.\n\n\n\nA can’t-miss landmark!\n\n\n\n\n\n\n\n\nPretty even when its cloudy!\n\n\n\nTake the 333 bus to Bondi Beach and walk along the gorgeous cliffs.\n\n\n\nThis neighborhood is home to several mouth-watering spots.\n\n\n\nSmall’s Deli\nPiña\nCross Section\n\n\n\n\n\nBills\nFabricca\nBlack Bottle\n\n\n\n\n\nBy train or car, you can make your way to several smaller destinations to explore more of Australia. Some of my favorites include:\n\nBlue Mountains\nRoyal National Park\nPalm Beach\nKiama\n\n\n\n\nUsing data from Google, the average cost of living for a Sydneysider can get expensive. Here are some calculations to help you decide if this trip is right for you.\n\n\n\n# Estimated costs of living for one week in Sydney\npublic_transit &lt;- 30\ngroceries &lt;- 100\nphone_plan &lt;- 10\nrent &lt;- 350\nutilities &lt;- 50\nrestaurants &lt;- 50\nentertainment &lt;- 30\ntotal_cost &lt;- public_transit + groceries + phone_plan + rent + utilities + restaurants + entertainment\nsprintf(\"$%.2f\", total_cost)\n\n[1] \"$620.00\"\n\n\n\n\n\n\nWhile I had already become familiar with R in my Scopes and Methods in Political Science course, that class was narrowly aimed at demonstrating trends or data in policy. As opposed to DATS1001, where I learned a better understanding of how coding and data analysis works in general. I think this was more helpful, as we actually worked through data cleaning and manipulation rather than going straight to illustration.\nIn particular, the most important thing I learned—especially in today’s age—was how machines learn. The k-nearest neighbors algorithm and its application to image classification tasks, where similarity is measured across pixel values, connects well to building AI systems. Now I have the intuition about why training data quality matters so much in AI: if the training images are unrepresentative, the nearest neighbors will lead the classifier astray. This helps me critically think about why or how an AI could produce systematically wrong predictions for underrepresented groups."
-  },
-  {
-    "objectID": "posts/post1/index.html#day-1-check-out-the-cbd",
-    "href": "posts/post1/index.html#day-1-check-out-the-cbd",
-    "title": "Sydney Itinerary and Reflection",
-    "section": "",
-    "text": "After checking into your hotel or Airbnb, take a walk along the water and admire the iconic Sydney Opera House. They have spectacular performances almost every day, and you can see what’s on the schedule here.\n\n\n\nA can’t-miss landmark!"
-  },
-  {
-    "objectID": "posts/post1/index.html#day-2-see-the-sunrise-at-bondi",
-    "href": "posts/post1/index.html#day-2-see-the-sunrise-at-bondi",
-    "title": "Sydney Itinerary and Reflection",
-    "section": "",
-    "text": "Pretty even when its cloudy!\n\n\n\nTake the 333 bus to Bondi Beach and walk along the gorgeous cliffs."
-  },
-  {
-    "objectID": "posts/post1/index.html#day-3-dine-out-in-darlinghurst",
-    "href": "posts/post1/index.html#day-3-dine-out-in-darlinghurst",
-    "title": "Sydney Itinerary and Reflection",
-    "section": "",
-    "text": "This neighborhood is home to several mouth-watering spots.\n\n\n\nSmall’s Deli\nPiña\nCross Section\n\n\n\n\n\nBills\nFabricca\nBlack Bottle"
-  },
-  {
-    "objectID": "posts/post1/index.html#day-4-5-go-on-a-day-trip",
-    "href": "posts/post1/index.html#day-4-5-go-on-a-day-trip",
-    "title": "Sydney Itinerary and Reflection",
-    "section": "",
-    "text": "By train or car, you can make your way to several smaller destinations to explore more of Australia. Some of my favorites include:\n\nBlue Mountains\nRoyal National Park\nPalm Beach\nKiama"
-  },
-  {
-    "objectID": "posts/post1/index.html#important-notes",
-    "href": "posts/post1/index.html#important-notes",
-    "title": "Sydney Itinerary and Reflection",
-    "section": "",
-    "text": "Using data from Google, the average cost of living for a Sydneysider can get expensive. Here are some calculations to help you decide if this trip is right for you.\n\n\n\n# Estimated costs of living for one week in Sydney\npublic_transit &lt;- 30\ngroceries &lt;- 100\nphone_plan &lt;- 10\nrent &lt;- 350\nutilities &lt;- 50\nrestaurants &lt;- 50\nentertainment &lt;- 30\ntotal_cost &lt;- public_transit + groceries + phone_plan + rent + utilities + restaurants + entertainment\nsprintf(\"$%.2f\", total_cost)\n\n[1] \"$620.00\""
-  },
-  {
-    "objectID": "posts/post1/index.html#dats1001-reflection",
-    "href": "posts/post1/index.html#dats1001-reflection",
-    "title": "Sydney Itinerary and Reflection",
-    "section": "",
-    "text": "While I had already become familiar with R in my Scopes and Methods in Political Science course, that class was narrowly aimed at demonstrating trends or data in policy. As opposed to DATS1001, where I learned a better understanding of how coding and data analysis works in general. I think this was more helpful, as we actually worked through data cleaning and manipulation rather than going straight to illustration.\nIn particular, the most important thing I learned—especially in today’s age—was how machines learn. The k-nearest neighbors algorithm and its application to image classification tasks, where similarity is measured across pixel values, connects well to building AI systems. Now I have the intuition about why training data quality matters so much in AI: if the training images are unrepresentative, the nearest neighbors will lead the classifier astray. This helps me critically think about why or how an AI could produce systematically wrong predictions for underrepresented groups."
-  },
-  {
-    "objectID": "posts/post2/index.html",
-    "href": "posts/post2/index.html",
-    "title": "Parks in NYC",
-    "section": "",
-    "text": "Environmental Justice in NYC: There’s more than just Central Park."
-  },
-  {
-    "objectID": "posts/post2/index.html#variables",
-    "href": "posts/post2/index.html#variables",
-    "title": "Parks in NYC",
-    "section": "Variables",
-    "text": "Variables\nI plan to hone in on several available variables, seen below.\n\n\n\n\n\n\n\n\nVariable\nType\nDescription\n\n\n\n\nACRES\nContinuous\nSize of each park property in acres\n\n\nBOROUGH\nCategorical\nNYC borough where the park is located (B = Brooklyn, M = Manhattan, Q = Queens, R = Staten Island, X = Bronx)\n\n\nTYPECATEGORY\nCategorical\nType of park (e.g., Neighborhood Park, Triangle/Plaza, Nature Area)"
-  },
-  {
-    "objectID": "posts/post2/index.html#data-cleaning-and-statistics",
-    "href": "posts/post2/index.html#data-cleaning-and-statistics",
-    "title": "Parks in NYC",
-    "section": "Data Cleaning and Statistics",
-    "text": "Data Cleaning and Statistics\nFor this dataset, I dropped all of the other variables, and filtered out rows where the ACRES value was missing. Also, I made sure that the BOROUGH values were spelled out correctly so that they are easier to interpret. Finally, my parks_clean dataset additionally changed BOROUGH and TYPECATEGORY, categorical variables, to factors, ensuring they are treated as such and not characters. This ultimately makes the data easier to analyze."
-  },
-  {
-    "objectID": "posts/post2/index.html#acres-visualization",
-    "href": "posts/post2/index.html#acres-visualization",
-    "title": "Parks in NYC",
-    "section": "ACRES Visualization",
-    "text": "ACRES Visualization\n\n\n\n\n\n\n\n\n\nThe distribution of park size in NYC is strongly right-skewed and unimodal, with the vast majority of parks being under 2 acres, and the largest park being 2,772 acres. In regards to other measures, the median is 0.70 acres and the IQR is 1.89 acres, demonstrating that the typical NYC park is quite small. Outside of this range lies only 310 outliers, underscoring the trend of small parks; 179 were removed from the histogram for legibility."
-  },
-  {
-    "objectID": "posts/post2/index.html#borough-and-typecategory-visualizations",
-    "href": "posts/post2/index.html#borough-and-typecategory-visualizations",
-    "title": "Parks in NYC",
-    "section": "BOROUGH and TYPECATEGORY Visualizations",
-    "text": "BOROUGH and TYPECATEGORY Visualizations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe above bar charts illustrate a complex park system. The number of parks are distributed across the city’s boroughs fairly evenly, but there is a large gap between the greenest neighborhood (Brooklyn) and the least green (Staten Island). Specifically, Brooklyn has 463 more parks than Staten Island. Perhaps uniquely, gardens, playgrounds, neighborhood parks, and triangles/plazas are the most common types of public parks in NYC. Gardens in public parks is the most surprising to me, as I don’t see that often in DC, but I see plenty of triangles caused by our diagonal avenues."
-  },
-  {
-    "objectID": "posts/post2/index.html#comparing-variablesboroughs-by-park-size",
-    "href": "posts/post2/index.html#comparing-variablesboroughs-by-park-size",
-    "title": "Parks in NYC",
-    "section": "Comparing Variables—Boroughs by Park Size",
-    "text": "Comparing Variables—Boroughs by Park Size\n\n\n\n\n\n\n\n\n\nTo understand my initial query on how park size varies by borough, I compared these two variables in a boxplot. Interestingly, while having the least amount of parks, Staten Island stands out with both the highest median park size and the most spread. On the other hand, the Bronx, Brooklyn, and Manhattan all have very similar and small median park sizes, suggesting that most NYC Parks properties in these boroughs are tiny pocket parks. Taken together, all five boroughs show lots of outliers above the whiskers, showing that a small number of very large parks are present across the city but are far from typical. Overall, this pattern makes sense given NYC’s density, as Staten Island is the least urbanized and has more room for larger green spaces.\nNote—I again removed 179 entries for legibility."
+    "text": "I’m Connor, and I’m an aspiring urban planner in the Chicago area hoping to make cities sustainable. I recently graduated summa cum laude from George Washington University with a BS in Environmental and Sustainability Science and a second major in Public Policy. There, I gained a comprehensive understanding of socio-ecological systems and the policy levers available to govern them. I’ve previously applied this in my research on DC’s regulations on green infrastructure, including the progressive Green Area Ratio, and the interaction between roadside stormwater gardens and rodent infestation. Abroad in Sydney, I used GIS and Microsoft Suite to improve the legibility of planning codes with an AI tool. Ultimately, I aim to bring these skills and cosmopolitan understanding of urban ecology to work as an environmental municipal planner or consultant.\nRead my writing -&gt; · View my resume"
   }
 ]

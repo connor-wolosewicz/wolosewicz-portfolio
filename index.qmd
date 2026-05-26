@@ -2,17 +2,24 @@
 title: "Connor Wolosewicz"
 image: pfp3.jpg
 about:
-  template: solana
+  template: trestles
   links:
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com/in/connor-wolosewicz
     - icon: envelope
       text: Email
-      href: connorwolosewicz@gmail.com
+      href: mailto:connorwolosewicz@gmail.com
     - icon: github
       text: GitHub
-      href: https://connor-wolosewicz.github.io/dats1001blog/
+      href: https://github.com/connor-wolosewicz
 ---
-I’m Connor, and I'm an aspiring urban planner in the Chicago area hoping to make cities sustainable. I recently graduated summa cum laude from George Washington University with a BS in Environmental and Sustainability Science and a second major in Public Policy. There, I gained a comprehensive understanding of socio-ecological systems and the policy levers available to govern them. I’ve previously applied this in my research on DC’s regulations on green infrastructure, including the progressive Green Area Ratio, and the interaction between roadside stormwater gardens and rodent infestation. Abroad in Sydney, I used GIS and Microsoft Suite to improve the legibility of planning codes with an AI tool. Ultimately, I aim to bring these skills and cosmopolitan understanding of urban ecology to work as an environmental municipal planner or consultant.
----
+
+## About Me
+
+I’m Connor, and I'm an aspiring urban planner in the Chicago area hoping to make cities sustainable. I recently graduated summa cum laude from George Washington University with a BS in Environmental and Sustainability Science and a second major in Public Policy. 
+
+There, I gained a comprehensive understanding of socio-ecological systems and the policy levers available to govern them. I’ve previously applied this in my research on DC’s regulations on green infrastructure, including the progressive Green Area Ratio, and the interaction between roadside stormwater gardens and rodent infestation. Abroad in Sydney, I used GIS and Microsoft Suite to improve the legibility of planning codes with an AI tool. Ultimately, I aim to bring these skills and cosmopolitan understanding of urban ecology to work as an environmental municipal planner or consultant.
+
+
+[Read my writing](blog.qmd)  ·  [View my resume](resume.qmd)
