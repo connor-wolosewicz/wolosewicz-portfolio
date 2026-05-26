@@ -21,5 +21,4 @@ I’m Connor, and I'm an aspiring urban planner in the Chicago area hoping to ma
 
 There, I gained a comprehensive understanding of socio-ecological systems and the policy levers available to govern them. I’ve previously applied this in my research on DC’s regulations on green infrastructure, including the progressive Green Area Ratio, and the interaction between roadside stormwater gardens and rodent infestation. Abroad in Sydney, I used GIS and Microsoft Suite to improve the legibility of planning codes with an AI tool. Ultimately, I aim to bring these skills and cosmopolitan understanding of urban ecology to work as an environmental municipal planner or consultant.
 
-
-[Read my writing](blog.qmd)  ·  [View my resume](resume.qmd)
+Feel free to explore this page. I adapted it from a blog I made for an introduction to data science class. For any inquiries, feel free to reach out via email or LinkedIn using the links to the left.
