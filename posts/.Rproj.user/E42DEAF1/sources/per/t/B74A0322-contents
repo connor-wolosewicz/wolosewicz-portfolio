@@ -1,0 +1,79 @@
+---
+title: "Sydney Itinerary"
+author: "Connor Wolosewicz"
+date: "1/22/26"
+format:
+  html:
+    theme: cerulean
+    toc: true
+    toc-location: right
+    toc-title: "Table of Contents"
+    code-fold: false
+    smooth-scroll: true
+page-layout: article
+---
+
+# So you want to travel to Sydney?
+
+> *If you're looking to escape the cold, look no further than the land down under.*
+
+Last year, I studied abroad at the University of Sydney and lived in the city for 5 months. Follow along to hear the best 1-week itinerary that checks all of your boxes.
+
+## Day 1 — Check out the CBD
+
+After checking into your hotel or Airbnb, take a walk along the water and admire the *iconic* Sydney Opera House. They have spectacular performances almost every day, and you can see what's on the schedule [here.](https://www.opera.org.au/whats-on/sydney?gad_source=1&gad_campaignid=19780411634&gbraid=0AAAAADtobcDmZtwwuUBIwiWw5X-D-ZY8T&gclid=Cj0KCQiAprLLBhCMARIsAEDhdPekKAJdfVIW4vfEcWZiGdNWk3zF1-EKjNUecdYbMfIOas8JQJzRir8aAvwYEALw_wcB)
+
+![A can't-miss landmark!](operahouse.jpg)
+
+## Day 2 — See the sunrise at Bondi
+
+![Pretty even when its cloudy!](bondi.jpg)
+
+<!-- All pictures are from yours truly :) -->
+
+Take the **333** bus to Bondi Beach and walk along the gorgeous cliffs.
+
+## Day 3 — Dine out in Darlinghurst
+
+This neighborhood is home to several mouth-watering spots.
+
+### Lunch
+
+-   Small's Deli
+-   Piña
+-   Cross Section
+
+### Dinner
+
+-   Bills
+-   Fabricca
+-   Black Bottle
+
+## Day 4-5 — Go on a day trip
+
+By train or car, you can make your way to several smaller destinations to explore more of Australia. Some of my favorites include:
+
+1.  Blue Mountains
+2.  Royal National Park
+3.  Palm Beach
+4.  Kiama
+
+## Important notes
+
+Using data from Google, the average cost of living for a Sydneysider can get expensive. Here are some calculations to help you decide if this trip is right for you.
+
+### Cost of living for one week (in USD)
+
+```{r}
+#| echo: true
+# Estimated costs of living for one week in Sydney
+public_transit <- 30
+groceries <- 100
+phone_plan <- 10
+rent <- 350
+utilities <- 50
+restaurants <- 50
+entertainment <- 30
+total_cost <- public_transit + groceries + phone_plan + rent + utilities + restaurants + entertainment
+sprintf("$%.2f", total_cost)
+```

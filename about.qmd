@@ -1,0 +1,20 @@
+---
+title: "Connor Wolosewicz"
+image: pfp3.jpg
+about:
+  template: solana
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/connor-wolosewicz
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/connor.wolo?igsh=MWlmZ3ZxZHpyMXRjYQ%3D%3D&utm_source=qr
+    - icon: github
+      text: GitHub
+      href: https://github.com
+---
+About Me
+---
+
+My name is Connor, and I am a senior majoring in Environmental Science and Public Policy. I have already learned R in another class and I am excited to explore it further. In my free time, I like to read, watch TV, go to the gym, bake, and of course, travel!
