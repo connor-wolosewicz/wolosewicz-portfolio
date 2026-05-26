@@ -2,4 +2,28 @@
 title: "GIS Maps"
 ---
 
-Coming soon.
+A highlight of past GIS work, completed in ArcGIS Pro.
+
+---
+
+![](maps/nationalmall.png)
+
+**A Walking Tour of the National Mall**
+
+*ArcGIS Pro · 2023*
+
+---
+
+![](maps/ethiopia.png)
+
+**Sustainable Forestry Regions in Ethiopia**
+
+*ArcGIS Pro · 2023*
+
+---
+
+![](maps/europeaccident.png)
+
+**Risk Analysis of Northern European Accident**
+
+*ArcGIS Pro · 2023*
