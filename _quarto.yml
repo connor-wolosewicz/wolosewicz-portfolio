@@ -8,11 +8,12 @@ website:
   title: "Blog"
   navbar:
     right:
-      - about.qmd
+      - href: index.qmd
+        text: Home
+      - href: blog.qmd
+        text: Writing
       - icon: github
         href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
 format:
   html:
     theme:
