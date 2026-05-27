@@ -19,6 +19,8 @@ website:
             text: GIS Maps
           - href: blog.qmd
             text: DATS1001 Blog
+          - href: extra.qmd
+            text: Side Quests
       - href: resume.qmd
         text: Resume
 
