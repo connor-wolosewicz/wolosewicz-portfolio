@@ -6,6 +6,8 @@ website:
   title: "Connor Wolosewicz"
   description: "Recent GW graduate and aspiring urban planner"
   navbar:
+    background: "#a8d5ff"
+    foreground: "#ffffff"
     right:
       - href: index.qmd
         text: Home
@@ -26,7 +28,7 @@ website:
 
 format:
   html:
-    theme: zephyr
+    theme: lumen
     css: styles.css
     toc: false
 

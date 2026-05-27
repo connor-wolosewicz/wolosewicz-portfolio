@@ -2,8 +2,7 @@
 title: "Connor Wolosewicz"
 page-layout: full
 image: pfp3.jpg
-image-shape: rounded
-image-width: 22em
+image-width: 24em
 about:
   template: trestles
   links:
