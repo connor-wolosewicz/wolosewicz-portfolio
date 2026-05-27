@@ -7,6 +7,7 @@ website:
   description: "Recent GW graduate and aspiring urban planner"
   navbar:
     background: "#9cd0ff"
+    foreground: "#2c3e50"
     right:
       - href: index.qmd
         text: Home
