@@ -29,6 +29,4 @@ website:
 format:
   html:
     theme: lumen
-    css: styles.css
     toc: false
-
